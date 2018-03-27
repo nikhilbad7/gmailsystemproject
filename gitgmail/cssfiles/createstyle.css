@@ -1,0 +1,52 @@
+
+#main{
+	height:1000px;
+	width:100%;
+	background-color:lightblue;
+}
+body{
+	margin:0px;
+}
+#header{
+	position:fixed;
+	height:300px;
+	width:100%; 
+	top:400px;
+}
+#footer{
+	position:fixed;
+	height:500px;
+	width:100%;
+	top:500px;
+}
+#footer2{
+	position:fixed;
+	top:600px;
+	left:70px;
+	height:200px;
+	width:100%;
+}
+#t{
+	position:fixed;
+	top:250px;
+	left:70px;
+}
+#b{ 
+
+	height:45px;
+	width:150px;
+	background-color:pink;
+	font-size:15px;
+}
+#p1{
+	position:fixed;
+	top:100px;
+	left:70px;
+}
+
+#nav{
+	width:1500px;
+	position:fixed;
+	left:0px;
+	background-color:pink;
+}

@@ -1,0 +1,21 @@
+#main{
+	position:fixed;
+	height:1000px;
+	width:100%;
+	background-color:lightblue;
+}
+#form{
+	position:fixed;
+	top:150px;
+	width:60%;
+	height:200px;
+}
+#butt{
+	background-color:pink;
+}
+input[type=email]:focus {
+    background-color: pink;
+}
+input[type=password]:focus {
+    background-color: pink;
+}

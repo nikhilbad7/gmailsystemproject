@@ -1,0 +1,64 @@
+#main{
+	height:1000px;
+	width:100%;
+	background-color:lightblue;
+}
+#part1{
+	height:1000px;
+	width:60%;
+	float:left;
+	background-color:lightblue;
+}
+#part2{
+	height:1000px;
+	width:40%;
+	float:right;
+	background-color:lightblue;
+}
+#img1{
+	position:fixed;
+	top:100px;
+	left:500px;
+	height:500px;
+}
+#b1{
+	position:fixed;
+	top:50px;
+	left:1000px;
+}
+#car{
+	position:fixed;
+	height:1000px;
+	width:60%;
+	top:100px;
+	left:0px;
+}
+#form{
+	position:fixed;
+	top:100px;
+	left:900px;
+	
+}
+#sub{
+	width:160px;
+	height:50px;
+}
+#email{
+	width:380px;
+}
+#password{
+	width:380px;
+}
+#mob{
+	width:380px;
+}
+#add{
+	width:380px;
+}
+#pic{
+	width:380px;
+	height:35px;
+}
+.error {
+	color:#FF0000;
+	}

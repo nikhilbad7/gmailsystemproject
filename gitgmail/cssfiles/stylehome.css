@@ -1,0 +1,120 @@
+body{
+	margin:0px;
+}
+#main{
+	height:1000px;
+	width: 100%;
+	background-color: lightblue;
+}
+#header{
+	position:fixed;
+	height:70px;
+	width:100%;
+	background-color:pink;
+}
+#goog{
+	position:fixed;
+	top: 0px;
+	left:80px;
+	width:80px;
+}
+ #search {
+	position:fixed;
+	left:300px;
+	top:10px;
+	width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url('images/s.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+#search:focus {
+    width: 70%;
+} 
+#content{
+	height:930px;
+	width:100%;
+	background-color: red;
+}
+#left{
+	height:930px;
+	width:20%;
+	background-color:lightblue;
+	float:left;
+	
+}
+#tab{
+	
+	position:fixed;
+	top:130px;
+	left:60px;
+}
+#t{
+	position:fixed;
+	top:200px;
+	left:300px;
+}
+.anc{
+	text-decoration:none;
+	font-size:50px;
+}
+#rght{
+	
+	height:930px;
+	width:80%;
+	background-color:lightblue;
+	float:right;
+	
+}
+#form{
+	position:fixed;
+	top:100px;
+	left:300px;
+}
+.tabinbox{
+	position:fixed;
+	top:70px;
+	left:300px;
+	width:70%;
+	border:1px solid black;
+}
+.tabdata{
+	position:fixed;
+	top:95px;
+	left:300px;
+	width:70%;
+	background-color:pink;
+}
+#tabdata1{
+	position:fixed;
+	top:130px;
+	left:400px;
+	width:50%;
+	height:300px;
+}
+.subutt{
+	width:20%;
+	background-color:white;
+	text-align:center;
+	border:1px;
+	position:fixed;
+	left:48%;
+}
+#sendbutt{
+	width:80px;
+	height:30px;
+	background-color:pink;
+}
+.input{
+	width: 400px;
+}
+.class{
+	width:20%;
+}

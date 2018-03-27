@@ -1,0 +1,64 @@
+body{
+	margin:0px;
+}
+#main{
+	width:100%;
+	height:1000px;
+	background-color:lightblue;
+}
+#b{
+	position:fixed;
+	top:400px;
+	left:700px;
+	height:30px;
+	font-size:20px;
+	background-color:orange;
+	}
+#header{
+	height:150px;
+	width:100%;
+}
+#footer{
+	height:850px;
+	width:100%;
+}
+#img{
+	position:fixed;
+	top:200px;
+	left:450px;	
+}
+#wel{
+	
+	font-size:50px;
+	position:fixed;
+	top:40px;
+	left:400px;
+}
+#cloud{
+	position:fixed;
+	left:100px;
+	top:20px;
+	height:50px;
+	
+}
+#cloud1{
+	position:fixed;
+	left:1200px;
+	top:170px;
+	height:40px;
+	
+}
+#cloud2{
+	position:fixed;
+	left:100px;
+	top:470px;
+	height:40px;
+	
+}
+#cloud3{
+	position:fixed;
+	left:1200px;
+	top:550px;
+	height:30px;
+	
+}
